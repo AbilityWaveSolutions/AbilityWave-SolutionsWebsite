@@ -1,4 +1,7 @@
+
 # AbilityWaveSolutions — Main-Website
+
+[![GitHub Actions - Deploy Pages](https://github.com/AbilityWaveSolutions/Main-Website/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/AbilityWaveSolutions/Main-Website/actions/workflows/deploy-pages.yml)
 
 This repository contains the static website for Ability Wave Solutions.
 
